@@ -6,148 +6,97 @@
 
 <div align="center">
 
-🎓 AI & Machine Learning Student
-🤖 Aspiring AI Engineer
-📊 Machine Learning Enthusiast
+🎓 AI & Data Science Student  
+🤖 Aspiring AI Engineer  
+📊 Machine Learning Enthusiast  
 
 </div>
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shankar2007-coder&color=blue&style=for-the-badge">
-</p>
-
----
-
 # 💡 About Me
 
-I’m an **AI & Data Science student** passionate about building **intelligent systems that solve real-world problems**.
+I’m an **AI & Data Science student** focused on building **intelligent systems that solve real-world problems**.
 
 🎓 Currently pursuing:
 
-• **B.E in Artificial Intelligence & Machine Learning**
-• **AI & Data Science Program – IIT Indore (Drishti CPS)**
+• **B.E in Artificial Intelligence & Machine Learning**  
+• **AI & Data Science Program – IIT Indore (Drishti CPS)**  
 
-I enjoy combining **mathematics, data, and algorithms** to build impactful AI solutions.
+💭 I believe in:
 
-My approach is simple:
+> **Learning by building, not just studying**
 
-**Learn → Build → Improve → Repeat**
+⚡ My approach:
+
+**Learn → Build → Optimize → Deploy → Repeat**
 
 ---
 
-# ⚡ Tech Stack
+# 🏆 Experience
 
-### Programming
+### 🌐 Campus Ambassador Intern — Naviotech (3 Months)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-
-### Data Science & Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-green?style=for-the-badge)
-
-### Libraries & Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+* Completed a **3-month internship** as a Campus Ambassador  
+* Connected students with **internships, workshops, and tech opportunities**  
+* Promoted **technical awareness and industry exposure**  
+* Strengthened **communication, leadership, and networking skills**  
 
 ---
 
 # 🚀 Projects
 
-### 🫀 Heart Disease Prediction using Decision Tree
+### 🫀 Heart Disease Prediction
 
-* Built a **Decision Tree model** using **13 clinical features**.
-* Performed **data preprocessing, feature analysis, and visualization**.
-* Provided **interpretable predictions** for healthcare support.
-* Tools: **Python, Pandas, NumPy, Scikit-learn, Matplotlib**
+* Built a **Decision Tree model** using **13 clinical features**  
+* Performed **EDA, feature engineering, and visualization**  
+* Delivered **interpretable predictions for healthcare insights**  
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
 
 ---
 
 ### 📉 Customer Churn Prediction
 
-* Built a **Machine Learning classification model** to predict customer churn.
-* Conducted **data preprocessing and exploratory data analysis**.
-* Achieved **80.9% prediction accuracy**.
-* Tools: **Python, Pandas, NumPy, Scikit-learn, Seaborn**
+* Developed a **classification model** to predict customer churn  
+* Achieved **~81% accuracy**  
+* Helped identify **high-risk customers for retention strategies**  
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Seaborn  
 
 ---
 
 ### 📊 Customer Conversion Prediction
 
-* Developed a **Logistic Regression model**.
-* Achieved **~89% accuracy** in predicting customer conversions.
+* Built a **Logistic Regression model**  
+* Achieved **~89% accuracy** in predicting conversions  
 
 ---
 
 ### 💰 Medical Cost Prediction
 
-* Implemented a **Linear Regression model** to predict healthcare expenses.
-* Built an **end-to-end ML pipeline**.
+* Implemented a **Linear Regression model**  
+* Built an **end-to-end ML pipeline**  
 
 ---
 
 ### 🦯 Smart Shoes for Blind People
 
-Assistive technology project designed to improve **mobility and safety using intelligent sensing systems**.
+* Designed an **assistive system for navigation and safety**  
+* Focused on **real-world impact using intelligent sensing**  
 
 ---
 
-# 🏆 Leadership
+# ⚡ Tech Stack
 
-### Campus Ambassador — Naviotech
+### 💻 Programming
+Python | C  
 
-* Connected students with **internships, workshops, and technical opportunities**.
-* Promoted **industry exposure for students**.
+### 📊 Data & ML
+Machine Learning | Data Analysis | Statistics  
 
----
-
-# 🧑‍💻 Hackathons
-
-✔ Participating in **AI & innovation hackathons**
-✔ Building **real-world ML solutions under time constraints**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shankar2007-coder&show_icons=true&theme=tokyonight">
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Shankar2007-coder&theme=tokyonight">
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar2007-coder&layout=compact&theme=tokyonight">
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankar2007-coder&theme=tokyo-night">
-</p>
+### 🛠 Tools & Libraries
+Pandas | NumPy | Scikit-learn | Matplotlib | SQL | GitHub  
 
 ---
 
@@ -157,20 +106,44 @@ Assistive technology project designed to improve **mobility and safety using int
 
 ---
 
-# 🎯 Current Goals
+# 🎯 Current Focus
 
-✔ Build advanced AI & ML projects
-✔ Participate in global hackathons
-✔ Contribute to open-source AI projects
-✔ Become a strong AI engineer
+✔ Building **real-world AI projects**  
+✔ Participating in **hackathons**  
+✔ Exploring **AI research & advanced ML**  
+✔ Preparing for **top tech internships**  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shankar-Savalgi&show_icons=true&theme=tokyonight">
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Shankar-Savalgi&theme=tokyonight">
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-Savalgi&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shankar-savalgi-17945238b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-savalgi-17945238b)
 
-📧 Email: **[shankarsavalgi2007@gmail.com](mailto:shankarsavalgi2007@gmail.com)**
+📧 Email: **shankarsavalgi2007@gmail.com**
 
 ---
 
@@ -178,9 +151,14 @@ Assistive technology project designed to improve **mobility and safety using int
 
 I’m actively looking for:
 
-• **AI / ML internships**
-• **Research collaborations**
-• **Open-source AI projects**
+• **AI / ML Internships**  
+• **Research Opportunities**  
+• **Open Source Contributions**  
 
-Let’s build **intelligent systems that matter.**
+---
 
+# 🚀 Final Note
+
+> I don’t just learn AI. I build it, test it, and improve it.
+
+Let’s build something impactful.
