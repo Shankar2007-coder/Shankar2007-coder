@@ -197,7 +197,7 @@ Assistive technology project designed to improve **mobility and safety using int
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shankar2007-coder&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Shankar-savalgi&show_icons=true&theme=tokyonight">
 
 </p>
 
@@ -210,7 +210,7 @@ Assistive technology project designed to improve **mobility and safety using int
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Shankar2007-coder&theme=tokyonight">
+<img src="https://streak-stats.demolab.com/?user=Shankar-Savalgi&theme=tokyonight">
 
 </p>
 
@@ -223,7 +223,7 @@ Assistive technology project designed to improve **mobility and safety using int
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar2007-coder&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar-Savalgi&layout=compact&theme=tokyonight">
 
 </p>
 
@@ -236,7 +236,7 @@ Assistive technology project designed to improve **mobility and safety using int
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankar2007-coder&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shankar-Savalgi&theme=tokyo-night">
 
 </p>
 
